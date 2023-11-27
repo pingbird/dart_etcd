@@ -1,3 +1,12 @@
 [submodule "etcd"]
 	path = etcd
 	url = https://github.com/etcd-io/etcd.git
+[submodule "googleapis"]
+	path = googleapis
+	url = https://fuchsia.googlesource.com/third_party/googleapis
+[submodule "grpc-gateway"]
+	path = grpc-gateway
+	url = https://github.com/grpc-ecosystem/grpc-gateway.git
+[submodule "gogoprotobuf"]
+	path = gogoprotobuf
+	url = https://github.com/gogo/protobuf.git

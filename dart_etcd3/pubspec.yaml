@@ -1,0 +1,16 @@
+name: etcd3
+description: High-level client bindings for etcd3's gRPC protocol.
+version: 1.0.0
+repository: https://github.com/pingbird/dart_etcd3
+
+environment:
+  sdk: ^3.0.5
+
+dependencies:
+  fixnum: ^1.1.0
+  grpc: ^3.2.4
+  protobuf: ^3.1.0
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0

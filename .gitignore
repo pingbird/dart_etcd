@@ -10,3 +10,5 @@
 # Obsidian
 
 .obsidian/
+
+/dart_etcd3/bin/test.dart
